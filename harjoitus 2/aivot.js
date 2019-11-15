@@ -34,3 +34,24 @@ function yhteystietoFunktio() {
     }
     document.getElementById("yhteystiedotTuloste").innerHTML = text;
   }
+  function diagrammiFunktio(){
+    // etsitään harjoitus2.html sivulta elementti, jonka id=myCanvas
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    ctx.beginPath();
+    
+    // diagrammiin voidaan kirjoittaa numeroita haluttuihin kohtiin.
+    ctx.fillText("50", 40, 450);
+    ctx.fillText("60", 60, 200);
+    ctx.fillText("80", 80, 250);
+    ctx.fillText("100", 100, 210);
+    
+   
+    
+    // Alla olevalla koodilla voidaan piirtää viivaa diagrammiin.
+    ctx.moveTo(40, 200);
+    ctx.lineTo(60, 250);
+    ctx.lineTo(80, 200);
+    ctx.lineTo(100, 210);
+    ctx.stroke();
+    }
