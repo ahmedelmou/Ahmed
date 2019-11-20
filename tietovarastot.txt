@@ -1,0 +1,17 @@
+								tietovarastot
+
+1)
+ . panki:
+  - talentaa mitä olet ostanut jä kuinka paljon käytät raha.
+ . kauppa :
+  - talentaa mitä otet ostanut ja milloin olet käynyt kauppan ja missä kauppassa.
+ . watsap :
+  - talentaa mitä olet kerjoitanut, mitä olet lähitänyt ja missä oleskelet. 
+2)
+ . sovelluksen täytyy tallentaa ostajan henkilö teidot ,tavaran tiedot,aika,paika.
+ . kauppa voisi asiakkaistaan tallennettua tietoa hyödyntää rätälöidä asiakkaille kohdenetut tarjokset ja mainokset.
+3)
+ .Tietovaraston tietoturva
+ - tietovaraston tietokanta palumuuri
+ .Tietovaraston suorituskyky
+ -Tietovaraston tietokanta 
