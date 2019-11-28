@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(235, 213, 213); 
+    
+}
+table{
+    width: 100%;
+    height: 20px;
+}
+tr,th{
+    height: 20px;
+    border: 10px;
+    border-collapse: collapse 10px;
+    border: solid 3px red;
+    background-color: rgb(99, 118, 165);
+    font-size: larger;
+    font: color  #ccac00;
+}
+h1{
+    color: red;
+    text-align: center;
+    
+}
+p{
+    color:#0d587e;
+}
