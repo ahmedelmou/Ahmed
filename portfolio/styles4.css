@@ -24,3 +24,11 @@ body{
 
     font-size: 16px ;
 }
+button{
+  background-color: rgb(102, 26, 92);
+}
+h1{
+  color: red;
+  text-align: center;
+  
+}
