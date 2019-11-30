@@ -13,14 +13,15 @@ div{
 } 
 p{
     font-size: larger;
+    color: darkred;
 }
 table{
     width: 100%;
     height: 20%;
 }
 img{
-    width: 100%;
-    height: 50%;
+    width: 200px;
+    height: 200px;
 }
 button{
     background-color: aqua;
