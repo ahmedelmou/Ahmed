@@ -19,9 +19,28 @@ h1{
     text-align: center;
     
 }
+h2{
+    color: red;
+    
+    
+}
 p{
     color:#eaeced;
 }
 button{
     background-color: aqua;
+}
+#aika{
+    background: rgb(51, 19, 19);
+    padding: 20px;
+    margin: 20px 0;
+    color: lime;
+    display: block;
+    font: 48px monospace;
+}
+fieldset{
+    background-color: bisque;
+}
+img{
+    float: right;
 }

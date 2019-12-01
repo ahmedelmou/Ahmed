@@ -1,0 +1,27 @@
+body {background-image: url("kuva1.jpg"); background-size:100%}
+
+table{
+    width: 100%;
+    height: 20px;
+}
+tr,th{
+    height: 20px;
+    border: 10px;
+    border-collapse: collapse 10px;
+    border: solid 3px red;
+    background-color: cornflowerblue;
+    font-size: larger;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-shadow: 4px 4px 2px #9acdec;
+    
+}
+p{
+    color: black;
+}
+button{
+    background-color: cyan;
+}
+

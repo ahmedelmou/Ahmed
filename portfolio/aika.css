@@ -1,0 +1,22 @@
+#aika{
+    background: rgb(51, 19, 19);
+    padding: 20px;
+    margin: 20px 0;
+    color: lime;
+    display: block;
+    font: 48px monospace;
+}
+body{
+    background-color: black; 
+}
+h1{
+    color: red;
+    text-align: center;
+    
+}
+p{
+    color:#61a7ca;
+}
+button{
+    background-color: aqua;
+}

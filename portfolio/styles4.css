@@ -2,7 +2,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 400px;
+  width: 700px;
 }
 
 div.gallery:hover {
@@ -25,7 +25,7 @@ body{
     font-size: 16px ;
 }
 button{
-  background-color: rgb(102, 26, 92);
+  background-color: cyan;
 }
 h1{
   color: red;

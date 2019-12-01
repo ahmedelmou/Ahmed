@@ -1,0 +1,32 @@
+.box{
+    width: 600px;
+    height: 400px;
+    background: #524f58;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #af5d48;
+    position: relative;
+}
+body{
+    background-color: rgb(14, 13, 13); 
+    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    
+}
+p{
+    color:#0d587e;
+}
+button{
+    background-color: aqua;
+}
+.kuva6{
+    display: block;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-40% -40%);
+}
