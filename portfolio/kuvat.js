@@ -1,6 +1,4 @@
-function myFunction1() {
+function myFunction() {
     location.href = "index.html";
 }
-function myFunction2() {
-    location.href = "Ohjelmointi.html";
-}
+

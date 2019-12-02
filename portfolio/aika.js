@@ -7,9 +7,6 @@ function showDate() {
  
 var intervalID = setInterval(showDate,);
 var intervalID = setInterval(showTime, 500);
-function myFunction1() {
+function myFunction() {
         location.href = "index.html";
-}
-function myFunction2() {
-    location.href = "Ohjelmointi.html";
 }

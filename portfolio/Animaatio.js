@@ -27,9 +27,14 @@ $(document).ready(function(){
         $(this).find("img").stop(true, true).fadeIn();
     });
 });
-function myFunction1() {
+function myFunction() {
     location.href = "index.html";
 }
-function myFunction2() {
-    location.href = "Ohjelmointi.html";
-}
+$(document).ready(function(){
+    $(".start2").click(function(){
+        $("p").animate({width: "100%"}).animate({fontSize: "46px"}).animate({borderWidth: 30});
+    });
+    $(".reset2").click(function(){
+        $("p").removeAttr("style");
+    });
+});  

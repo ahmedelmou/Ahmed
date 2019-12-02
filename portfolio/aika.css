@@ -18,5 +18,8 @@ p{
     color:#61a7ca;
 }
 button{
-    background-color: aqua;
+    background-color: cyan;
+}
+input{
+    background-color: cyan;
 }
